@@ -1,5 +1,5 @@
 <h1 align=center> RUM: Rust Universal Machine </h1>
-<h2 align=center> A Project by Zach Breene and C. Wyatt Polasek </h2>
+<h2 align=center> A CSC411: Computer Organization Project by Zach Breene and C. Wyatt Polasek </h2>
 <h4 align=center> Created at the University of Rhode Island, December 2023 </h4>
 
 ## Introduction
