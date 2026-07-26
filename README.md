@@ -35,7 +35,7 @@ This directory contains a collection of pre-compiled test packages to validate t
 * `cat.um`: A basic Universal Machine program used to verify standard input and output functionality.
 * `codex.umz`: An additional compressed Universal Machine executable to rigorously test instruction parsing and memory bounds.
 * `midmark.um`: This is a smaller dataset used for initial profiling and quick performance checks. It allows developers to measure baseline execution times and identify bottlenecks
-* `sandmark.umz1`: This is a comprehensive stress test that exercises more complex VM operations, including large array manipulations and aliasing checks. It is used to evaluate the final performance of the Universal Machine implementation after code tuning and optimization stages
+* `sandmark.umz`: This is a comprehensive stress test that exercises more complex VM operations, including large array manipulations and aliasing checks. It is used to evaluate the final performance of the Universal Machine implementation after code tuning and optimization stages
 
 ---
 
